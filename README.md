@@ -1,5 +1,5 @@
 # Microbial Ecology
-Collection of resources for analysis of Next Generation Sequencing (NGS) data for environmental ecosystems.
+Resources for analyzing Next Generation Sequencing (NGS) from environmental ecosystems.
 
 ## Databases
 * Web-based Arbuscular Mycorrhizal Fungi database - https://maarjam.botany.ut.ee
